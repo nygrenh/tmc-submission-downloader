@@ -1,3 +1,3 @@
 # Submission downloader
 
-Run `ruby download.rb` and follow instructions.
+First, run `gem install parallel`. Then run `ruby download.rb` and follow instructions.
